@@ -1,7 +1,7 @@
+# Rock Paper Scissors
 import random
 
-
-# Rock Paper Scissors
+# Create you own dictonary 
 def gameWin(comp, you):
     # If two values are equal, declare a tie!
     if comp == you:
@@ -49,4 +49,4 @@ if a == None:
 elif a:
     print("You Win!")
 else:
-    print("You Lose!"
+    print("You Lose!")
